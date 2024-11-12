@@ -1,0 +1,2 @@
+class Mpesaa < ApplicationRecord
+end

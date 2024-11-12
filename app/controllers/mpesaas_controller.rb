@@ -1,0 +1,2 @@
+class MpesaasController < ApplicationController
+end
