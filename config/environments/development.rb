@@ -52,8 +52,8 @@ Rails.application.configure do
 
 
 
-  config.hosts << "84d2-197-139-59-5.ngrok-free.app"
-  config.hosts << "84d2-197-139-59-5.ngrok-free.app"
+  config.hosts << "fde5-197-139-59-5.ngrok-free.app"
+  config.hosts << "fde5-197-139-59-5.ngrok-free.app"
 
   # Raise an error on page load if there are pending migrations.
   config.active_record.migration_error = :page_load
